@@ -1,0 +1,43 @@
+body{
+    font-family:"Madimi One";
+    background-color:pink;
+    background-image:url(media/background.png);
+}
+
+#logo{
+    text-align: center;
+    color:indianred;
+    font-size:60px;
+}
+
+#register{
+    margin: auto;
+    display: block;
+    background-color: grey;
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    height:100px;
+    width:700px;
+    z-index: -1;
+}
+
+#registerImg{
+    margin: auto;
+    display: block;
+}
+
+#registerButton{
+    margin: auto;
+    display: block;
+    font-size:40px;
+    position: relative;
+    top:10px;
+    color:white;
+    background-color: indianred;
+}
+
+#info{
+    color:darkred;
+    font-size:50px;
+}
